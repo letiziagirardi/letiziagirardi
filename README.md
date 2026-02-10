@@ -8,7 +8,7 @@
 ## 🔗 Connect with me
 [LinkedIn](https://www.linkedin.com/in/letiziagirardi) · 
 [GitHub](https://github.com/letiziagirardi) · 
-Gmail: **letizia.g00@gmail.com**
+[Gmail](mailto:letizia.g00@gmail.com)
 
 ---
 
@@ -77,9 +77,4 @@ Worked on radiological & optical imaging using state-of-the-art deep learning me
 ---
 
 ## 📬 Contact Me
-If you’re interested in collaborating on **medical AI**, **deep learning**, **neuroimaging**, or  
-interdisciplinary healthcare technologies — feel free to reach out!
-
-📧 **letizia.g00@gmail.com**  
-🔗 **LinkedIn: [/letiziagirardi](https://www.linkedin.com/in/letiziagirardi)**
-
+If you’re interested in collaborating on **medical AI**, **deep learning**, **neuroimaging**, or interdisciplinary healthcare technologies — feel free to reach out!
