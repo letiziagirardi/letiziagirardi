@@ -81,5 +81,5 @@ If you’re interested in collaborating on **medical AI**, **deep learning**, **
 interdisciplinary healthcare technologies — feel free to reach out!
 
 📧 **letizia.g00@gmail.com**  
-🔗 **LinkedIn: /letiziagirardi**
+🔗 **LinkedIn: [/letiziagirardi](https://www.linkedin.com/in/letiziagirardi)**
 
