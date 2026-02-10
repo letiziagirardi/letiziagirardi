@@ -33,19 +33,13 @@ Gmail: **letizia.g00@gmail.com**
 Developed a deep-learning pipeline for **PVS detection and segmentation** on MRI scans, in collaboration with radiologists.  
 **Tech:** 3D Slicer · FSL · ANTs · Python
 
----
-
 ### ⚡ Neural Network Simulation under Deep Brain Stimulation (DBS)  
 Simulated neuronal networks under DBS to analyze effects on neural dynamics and network functionality.  
 **Tech:** NEURON · NumPy · SciPy
 
----
-
 ### 🎙 Automatic Speech Recognition & Language Modeling  
 Worked on ASR systems using **HMM-based pipelines**, HTK and KenLM to optimize recognition accuracy.  
 **Tech:** HTK · KenLM · Praat
-
----
 
 ### 🎥 Localization and Detection of Deep Video Inpainting  
 Developed a detection system for deep learning–based video inpainting using CNNs and computer vision tools.  
@@ -77,27 +71,8 @@ Figma · Canva
 ### **MediTech Challenge – Vascular Surgery (Jan 2025 – ongoing)**  
 Top-ranked participant in a multidisciplinary team designing technological solutions for vascular surgery.
 
----
-
 ### **Research Fellow @ University of Trento (May 2025 – Oct 2025)**  
 Worked on radiological & optical imaging using state-of-the-art deep learning methods, foundation models, and transformers.
-
----
-
-## 📚 Publications
-
-**[2] Deep segmentation of brain perivascular spaces in Parkinson’s disease**  
-*Under peer review* — *Equal contribution*
-
-**[1] A Case Study for the Automatic Supervision of Body-Weight Exercises: The Squat**  
-IEEE STAR 2023 — DOI:10.1109/STAR58331.2023.10302651  
-*Equal contribution*
-
----
-
-## 🏆 Awards  
-🏅 **20th Bernardo Nobile Award – Honorable Mention (2025)**  
-For the thesis on automatic PVS analysis in Parkinson’s patients.
 
 ---
 
