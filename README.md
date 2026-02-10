@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/letizia_girardi/)
 
 
-# 💬 About Me
+## 💬 About Me
 
 🔬 I'm a Ph.D. student working on **medical image analysis**, **multimodal diagnostic systems**, and **adaptive AI models** built to support clinicians with reliable & interpretable decision tools.
 
@@ -18,7 +18,7 @@
 
 🌱 When I'm not doing research, you’ll probably find me travelling, doing pilates, or walking somewhere with a podcast on.
 
-# 👨🏻‍💻 Languages & Tools
+## 👨🏻‍💻 Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
