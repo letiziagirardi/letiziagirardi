@@ -27,13 +27,6 @@ Gmail: **letizia.g00@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
-<!-- Uncomment if you want GitHub stats  -->
-ì![Letizia's GitHub stats](https://github-readme-stats.vercel.app/api?username=letiziagirardi&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letiziagirardi&layout=compact)
-
----
-
 # Reaserch Projects
 
 ### 🧠 Automatic Analysis of Perivascular Spaces in Parkinsonian Patients  
