@@ -12,6 +12,7 @@
 🔬 I'm a Ph.D. student working on **medical image analysis**, **multimodal diagnostic systems**, and **adaptive AI models** built to support clinicians with reliable & interpretable decision tools.
 
 🧠 Research Interests
+
 **Longitudinal Multimodal Learning in Healthcare**: multimodal deep-learning modeling integrating medical imaging with clinical data. Focus on generative AI models for temporal morphological analysis to quantify anatomical progression and improve diagnostic generalization.
 
 **Keywords**: Multimodal Fusion, Longitudinal Modeling, Generative AI, Disease Progression Simulation, Disease Trajectory
